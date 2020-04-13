@@ -6,3 +6,4 @@ Used Keras with Tensorflow at its backend.
 Treated the spectrograms as images to train an image classification model to classify the signals into one of four classes :- [squiggle , narrowband, narrowbandrd , noise].
 
 This is a beginner's project and you can use it to learn the basics of Keras and CNN.
+Created as a part of Rhyme's course on Coursera.
